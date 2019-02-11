@@ -1,0 +1,20 @@
+1. eliminate duplicate entry in a product array if duplicate product id enter in the text box
+on the right hend side of the text box error msg must be displayed.
+
+
+2. use the same save button is used for add and update the product
+
+
+3. add a checkbox in table product header also generte check box on each product row.
+    when hearder check box is checked, checkbox for all table row checked or not. do it vice versa.
+
+
+4. add functionality to delete checked row
+
+
+--------------------------------------------------
+craete a model driven form for follwing validations
+1. product name must start from upper case, they must not have numbers and 
+   only two blank spaces are allowed for multiname product name
+2. make sure that category name is selected before submitting
+3. write a validator that will check uniquesness of productid
